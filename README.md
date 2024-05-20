@@ -1,3 +1,2 @@
 # Make a .env file
-##
-Add postgresDB string and then include PORT as well.
+## Add postgresDB string and then include PORT as well.
